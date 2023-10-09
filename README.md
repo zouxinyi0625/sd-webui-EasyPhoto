@@ -67,7 +67,8 @@ DSW has free GPU time, which can be applied once by a user and is valid for 3 mo
 
 Aliyun provide free GPU time in [Freetier](https://help.aliyun.com/document_detail/2567864.html), get it and use in Aliyun PAI-DSW to start EasyPhoto within 3min!
 
-[![DSW Notebook](images/dsw.svg)](https://gallery.pai-ml.com/#/preview/deepLearning/cv/stable_diffusion_easyphoto)
+[<img src="images/dsw.svg" alt="DSW Notebook" style="max-width:30%;">](https://gallery.pai-ml.com/#/preview/deepLearning/cv/stable_diffusion_easyphoto)
+
 
 #### b. From AutoDL
 If you are using AutoDL, you can quickly pull up the Stable DIffusion webui using the mirror we provide.
