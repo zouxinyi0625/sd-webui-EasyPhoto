@@ -69,7 +69,7 @@ Aliyun provide free GPU time in [Freetier](https://help.aliyun.com/document_deta
 
 [<img src="images/dsw.png" alt="DSW Notebook" style="max-width:30%;">](https://gallery.pai-ml.com/#/preview/deepLearning/cv/stable_diffusion_easyphoto)
 
-- Basic semantic search built with Text-Embedding and VectorDB APIs: [![Open In PAI-DSW](images/dsw.svg)](https://gallery.pai-ml.com/#/import/https%3A%2F%2Fgithub.com%2Fdashscope%2Fdash-cookbook%2Fblob%2Fmain%2Fexamples%2Fbasic_semantic_search.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dashscope/dash-cookbook/blob/main/examples/basic_semantic_search.ipynb)
+- Basic semantic search built with Text-Embedding and VectorDB APIs: [![Open In PAI-DSW](images/20px.svg)](https://gallery.pai-ml.com/#/import/https%3A%2F%2Fgithub.com%2Fdashscope%2Fdash-cookbook%2Fblob%2Fmain%2Fexamples%2Fbasic_semantic_search.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dashscope/dash-cookbook/blob/main/examples/basic_semantic_search.ipynb)
 
 #### b. From AutoDL
 If you are using AutoDL, you can quickly pull up the Stable DIffusion webui using the mirror we provide.
